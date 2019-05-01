@@ -1,0 +1,58 @@
+{
+	"configs" : [
+		{
+			"remarks" : "91",
+			"id" : "372712B95AB26BFC80FC33C7EA9CBAA8",
+			"server" : "149.248.35.234",
+			"server_port" : 1666,
+			"server_udp_port" : 0,
+			"password" : "szu9102xxx",
+			"method" : "rc4-md5",
+			"protocol" : "auth_aes128_md5",
+			"protocolparam" : "",
+			"obfs" : "http_post",
+			"obfsparam" : "",
+			"remarks_base64" : "OTE",
+			"group" : "",
+			"enable" : true,
+			"udp_over_tcp" : false
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 2,
+	"shareOverLan" : false,
+	"localPort" : 2223,
+	"localAuthPassword" : "iuGgI-ZJ7-cMKM71EiEp",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"balanceAlgorithm" : "LowException",
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : "",
+	"proxyPort" : 0,
+	"proxyAuthUser" : "",
+	"proxyAuthPass" : "",
+	"proxyUserAgent" : "",
+	"authUser" : "",
+	"authPass" : "",
+	"autoBan" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : false,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
